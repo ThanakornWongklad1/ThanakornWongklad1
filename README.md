@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Wongklad</h1>
-<h3 align="center">A passionate frontend developer from KMUTT</h3>
+<h3 align="center">A passionate web developer from KMUTT</h3>
 
 # 💫 About Me:
 - 🌱 I’m currently learning vue3, angular, react
